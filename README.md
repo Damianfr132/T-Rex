@@ -1,2 +1,1 @@
-# T-Rex
-juego de trex en linea
+# Juegos-compatibles-con-dispositivos
